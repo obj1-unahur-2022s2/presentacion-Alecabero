@@ -1,25 +1,15 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/FOTO ALE.jpeg)
 
 Bienvenidos a
-# Programación con objetos I
+# PRESENTACIÓN Alejandro Cabero
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Tengo 28 años, estudio en la UNAHUR desde el 2020, en la carrera de tecnicatura en programación.
+Me gusta jugar video juegos e ir al cine.
+me interese en la informatica luego de hacer un trabajo sobre Alan Turing para psicologia cuando estaba estudiando en la UM. 
+hice un curso de reparacion de pc y un curso de visual Basci 6.0. Por lo cual al terminar dichos cursos me incline a inscirbirme en la universidad. 
 
 ```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **noche**: Martes 18hs.
-* Horario comisión **tarde**: Jueves 14hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo y Matías Müller
 
 ## Links importantes :monocle_face:
 - [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
