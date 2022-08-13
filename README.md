@@ -1,4 +1,4 @@
-![Logo UNAHUR](./assets/FOTO ALE.Jpeg)
+![Logo UNAHUR](./assets/FOTO ALE.jpg)
 
 Bienvenidos a
 # PRESENTACIÓN Alejandro Cabero
